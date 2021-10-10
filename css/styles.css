@@ -547,6 +547,21 @@ select {
 
 .cards-1 .card-icon.blue {
 	background: url('../images/services-icon-bg-blue.png') center center no-repeat;
+	
+}
+
+.cards-1 .card-icon.elder {
+	background: url('../images/couple.png') center center no-repeat;
+	background-size: 90px 90px;
+}
+.cards-1 .card-icon.doctor {
+	background: url('../images/doctor.png') center center no-repeat;
+	background-size: 90px 90px;
+}
+
+.cards-1 .card-icon.caregiver {
+	background: url('../images/caregiver.png') center center no-repeat;
+	background-size: 90px 90px;
 }
 
 .cards-1 .card-icon.yellow {
